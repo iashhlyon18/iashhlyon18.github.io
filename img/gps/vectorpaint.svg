@@ -6,8 +6,8 @@ xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/2
 xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
 <title>my vector image</title>
 <!-- Created with Vector Paint - http://www.vectorpaint.yaks.com/ https://chrome.google.com/webstore/detail/hnbpdiengicdefcjecjbnjnoifekhgdo -->
- <g style="" class="currentLayer" fill="#6e4c4b"><title>Layer 1</title>
- <path fill="none" fill-opacity="1" stroke="#6e4c4b" 
+ <g style="" class="currentLayer" fill="#1e656d"><title>Layer 1</title>
+ <path fill="none" fill-opacity="1" stroke="#1e656d" 
  stroke-opacity="1" stroke-width="13" stroke-dasharray="none" stroke-linejoin="round" 
  stroke-linecap="butt"
   stroke-dashoffset="" fill-rule="nonzero" opacity="1" marker-start="" marker-mid="" 
@@ -15,7 +15,7 @@ xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
   d="M249,235 C249,114.55801104972376 315.23204419889504,17 397,17 C478.76795580110496,17 
   545,114.55801104972376 545,235 C545,355.44198895027625 478.76795580110496,453 397,453 
   C315.23204419889504,453 249,355.44198895027625 249,235 Z" id="svg_1"/>
-  <path fill="none" stroke="#6e4c4b" style="color: rgb(0, 0, 0);" stroke-width="13" stroke-linejoin="round" 
+  <path fill="none" stroke="#1e656d" style="color: rgb(0, 0, 0);" stroke-width="13" stroke-linejoin="round" 
   stroke-dashoffset="" fill-rule="nonzero" marker-start="" marker-mid="" marker-end="" id="svg_2" 
   d="M336.3910217285156,118.39497401738572 L336.3910217285156,118.39497401738572 
   C336.3910217285156,84.26485876228253 364.0588651099388,56.597015380859375 
